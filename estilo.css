@@ -148,7 +148,7 @@ p {
 
 .card {
     padding: 20px; 
-    border: 2px solid #2d3142; 
+    border: 2px solid #141F35; 
     border-radius: 10px; 
 }
 
@@ -199,6 +199,72 @@ p {
   gap: 10px;
 }
 
+.portrait{
+    width: 30%;
+    padding-top: 40px;
+}
 
+.portrait img {
+    width: 100%;
+    border: 0.5px solid #000000;
+    border-radius: 12px; 
 
+}
+
+.conteudoBibiografico{
+    padding-top: 40px;
+    flex-grow: 1;
+}
+
+.nomeCientista h1{
+    text-align: center;
+    font-size: 64px;
+    font-family: "Inter", sans-serif;
+    color: #141F35;
+    margin: 0px;
+}
+
+.informativo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 20 0px;
+}
+
+.informativo p,li{
+    font-size: 15px;
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+    color: #141F35;   
+    margin: 5px; 
+    font-style: italic;
+}
+
+.colorido{
+    font-size: 20px;
+    font-family: "Inter", sans-serif;
+    color: #C04922;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.fraseMarcante{
+    font-size: 15px;
+    font-family: "Inter", sans-serif;
+    color: #000000;
+    font-style: italic;    
+}
+
+.biografia p{
+    margin: 10px 60px;
+    display: flex;
+    font-size: 15px;
+    font-family: "Inter", sans-serif;
+    color: #000000;
+    font-style: italic;   
+    text-align: left;   
+    font-weight: 300;
+ 
+}
 
