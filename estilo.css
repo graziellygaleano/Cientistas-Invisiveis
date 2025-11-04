@@ -1,21 +1,39 @@
-
 .linha {
     width: 960px;
     margin: 0 auto;
     overflow: auto;
     padding: 5px 0;
+    height: auto;
 }
 
 .barra{
-    width: 960px;
-    margin: 0 auto;
-    height: 120px;
+
+    width: 1541px;
+    margin: auto;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px 10px;
+
 }
 
-.logoIfsp{
-    width: 80px;
-    float: left;
 
+.logoIfsp{
+    width: auto;
+
+}
+
+.minorias{
+    width: auto;
+
+}
+
+.minorias img{
+    max-width: 500px;  
+    max-height: 90px;
+    height: auto; 
+    width: auto;
 }
 
 .tituloProjeto{
@@ -48,16 +66,9 @@ h3{
     font-family: "Inter", sans-serif;
     font-weight: 500;
     color: #C04922;
-    padding: 200px 0px 0px 0px;
+    padding: 120px 0px 0px 0px;
 }
 
-
-.minorias{
-    width: 530px;
-    float: left;
-    padding: 0px 0px 0px 350px;
-
-}
 
 .menu{
     width: 960px;
