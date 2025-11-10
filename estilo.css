@@ -145,6 +145,16 @@ p {
     max-width: 1200px; 
 }
 
+.container-cards{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem; /* Adiciona espaçamento entre os cards */
+
+}
+.persona{
+    display: flex;
+}
+
 .card-link {
   text-decoration: none; 
   color: inherit; 
