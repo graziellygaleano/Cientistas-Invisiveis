@@ -1,0 +1,166 @@
+[
+    {
+      "id": "1",
+      "nome": "Katherine Johnson",
+      "area": "matemática",
+      "grupo": ["Mulher", "PPI"],
+      "resumo": "Katherine Johnson, a matemática que superou a segregação e a tecnologia da década de 60, era a garantia de que o astronauta John Glenn voltaria para casa.",
+      "imagem": "string",
+      "nascimento_morte": "1918 - 2020",
+      "origem": "White Sulphur Springs, Estados Unidos",
+      "nascimento": "Nascida em 26 de agosto de 1918, em White Sulphur Springs, Virgínia Ocidental, a infância de Katherine Johnson foi marcada por um cenário difícil durante o período de racismo institucionalizado nos Estados Unidos, onde até a década de 1960 pessoas negras viviam em segregação racial.",
+      "educação": "O que poderia ter sido um impedimento, no entanto, tornou-se apenas um obstáculo para sua família e para a pequena e ambiciosa Katherine. Desde muito jovem, ela demonstrou uma aptidão para números que a levou a pular séries na escola e a alcançar o ensino médio com apenas 13 anos. Aos 18 anos, seu caminho se cruzou com o de um grande nome, W. W. Schieffelin Claytor, o terceiro homem negro a receber um doutorado em Matemática no país. Segundo algumas fontes, ele chegou a criar novos cursos de matemática para Johnson, que já havia \"gabaritado\" o currículo da faculdade. Apesar de ter se formado em 1937, seus momentos mais brilhantes ainda estavam por vir. Ela assumiu o cargo de professora em uma escola pública na Virgínia, mas poucos anos depois conheceu seu futuro marido, James Goble. Juntos, tiveram três filhas e, até que todas estivessem um pouco mais velhas, Katherine se dedicou integralmente à maternidade.",
+      "trabalhos": "Em 1953, sua história alcançou os primeiros passos na trilha que a levou à missão Apollo 11. Katherine Johnson ouviu de um parente sobre vagas específicas para mulheres negras na Computação da Área Oeste na aposentada NACA, que hoje é conhecida como NASA. Johnson iniciou no cargo de computadora — uma função em que fazia diversos cálculos de alta precisão —, mas apenas duas semanas depois assumiu outra posição. O que deveria ser temporário a levou a quatro anos de análise de dados de testes de voo e na investigação de um acidente aéreo, antes de ser coautora do documento Notes on Space Technology, no qual fazia a análise da trajetória para a primeira missão tripulada dos EUA, em 1961. Em 1962, ela viveu o que se tornou o momento mais marcante de sua carreira, durante a missão Friendship 7. Os cálculos para esse voo eram tão complexos que exigiram a criação de uma rede de computadores da IBM. Como, nessa época, as máquinas ainda costumavam falhar e os astronautas ficavam temerosos, em um trecho da biografia de Katherine Johnson no site oficial da NASA conta como, durante a checagem pré-voo do Projeto Mercury, John Glenn pediu aos engenheiros que chamassem \"aquela garota\" para confirmar os cálculos programados pelo computador, alegando que \"Se ela disser que estão bons, estou pronto para ir\". Como registrado de sua missão, o voo foi um sucesso, marcando um ponto crucial durante a Guerra Fria. A longa carreira de Johnson durou 33 anos, totalizando mais de 20 publicações como autora ou coautora. Uma de suas pesquisas pode ser encontrada em https://ntrs.nasa.gov/citations/19980227091, sendo esta a primeira vez em que foi de fato creditada por seu trabalho. Um ponto importante de sua história é que, apesar das oportunidades que abraçou, Katherine Johnson não obteve muito reconhecimento até o fim de sua vida. Em 2015, aos 97 anos, a matemática foi condecorada pelo presidente Barack Obama com a Medalha Presidencial da Liberdade, a mais alta honra civil dos Estados Unidos.",
+      "morte": "No entanto, em 2020, o mundo recebeu a triste notícia de seu falecimento em um lar de idosos em Newport News, em 24 de fevereiro, aos 101 anos."
+    },
+   
+    {
+        "id": "2",
+        "nome": "Emmy Noether",
+        "area": "Matemática",
+        "grupo": ["Mulher"],
+        "resumo": "A matemática que contribuiu para a Teoria da Relatividade de Einstein e permaneceu como professora por 19 anos sem remuneração.",
+        "imagem": "string",
+        "nascimento_morte": "1882  - 1935",
+        "origem": "Erlangen, Alemanha",
+        "nascimento": "Amalie Emmy Noether nasceu em 1882 em Erlangen, Alemanha. De uma família judia e filha de Max Noether, um professor da Universidade de Erlangen conhecido por suas contribuições para a matemática algébrica, o gosto pela área era claramente familiar.",
+        "educação": "Nessa época, durante o século XIX, a educação formal de mulheres se encerrava por volta dos 14 anos, e por essa razão, Emmy Noether não podia ser oficialmente vinculada a uma universidade. Entretanto, isso não foi suficiente para pará-la. Aos 18 anos, Emmy foi autorizada a frequentar aulas de matemática na faculdade como ouvinte, desde que conseguisse a autorização do professor responsável, mas alguns se recusavam, repudiando a ideia de lecionar com uma mulher na sala. Em 1904, a mesma universidade passou a permitir que mulheres se matriculassem, e sob a orientação de Paul Gordan, um professor e amigo de seu pai, Emmy concluiu sua tese de doutorado por volta de 1908. Após a conquista de seu doutorado, e apesar de já poderem se matricular, as mulheres ainda não eram reconhecidas para assumirem cargos acadêmicos. Então, Emmy permaneceu na faculdade sem remuneração para guiar suas pesquisas, e isso continuou inclusive quando foi convidada por David Hilbert para trabalhar na Universidade de Göttingen. Somente após a Primeira Guerra Mundial, em 1922, recebeu a habilitação para se tornar professora formalmente, e apenas em 1923 começou a receber um salário.",
+        "trabalhos": "O trabalho principal de Noether foi desenvolvido entre 1915 e 1918, quando publicou a obra que é um pilar para a física moderna, hoje conhecida como o Teorema de Noether. Nele, estabelece uma conexão profunda e fundamental entre as leis de conservação na física e as simetrias da natureza, o que posteriormente foi essencial para a teoria da relatividade de Einstein. Em 1920, a genialidade de Emmy Noether  passou a ser mais difundida e em 1932, ela recebeu seu reconhecimento mais significativo com o Prêmio Memorial Ackermann-Teubner em Matemática por seu trabalho em álgebras não comutativas, teoria da representação, números hipercomplexos e transformações lineares. ",
+        "morte": "Apenas um ano depois, Emmy foi forçada a abandonar seu emprego por conta das políticas repressivas sobre os judeus na Alemanha. Esse acontecimento a levou a trabalhar no Bryn Mawr College, na Pensilvânia, mas dois anos depois ela faleceu por complicações em uma cirurgia."
+      },    
+
+      {
+        "id": "3",
+        "nome": "Edith Clarke",
+        "area": "Engenharia",
+        "grupo": ["Mulher"],
+        "resumo": "A primeira engenheira eletricista e professora de engenharia elétrica do mundo",
+        "imagem": "string",
+        "nascimento_morte": "1883  - 1959",
+        "origem": "Maryland, Estados Unidos",
+        "nascimento": "Nascida em 1883, em uma fazenda em Maryland, Edith Clarke teve uma infância difícil. Após a morte de seus pais, aos 12 anos, ela foi morar com um tio. Sua vida acadêmica começou em um internato, mas sua ambição a levou além. Aos 18 anos, usando a herança de seus pais, ela decidiu investir em sua educação.",
+        "educação": "Em 1908, ela ingressou no Vassar College para estudar Matemática e Astronomia. Após a formatura, tentou a carreira de professora de matemática, mas rapidamente se desiludiu. Buscando uma nova direção, ela começou a cursar Engenharia Civil na Universidade de Wisconsin em 1911, mas novamente não se encontrou.",
+        "trabalhos": "Sua paixão surgiria de forma inesperada. Em 1912, Clarke começou a trabalhar na AT&T como assistente de computador — uma função que, na época, envolvia cálculos complexos para os quais não existiam calculadoras. Foi lá que ela se aprofundou em teorias de linhas de transmissão e circuitos elétricos. Inspirada por esse trabalho, em 1919, ela se tornou a primeira mulher a obter um mestrado em Engenharia Elétrica no MIT. O ano de 1921 marcou um de seus maiores feitos: ela inventou a calculadora Clarke, patenteada em 1925. Essa ferramenta simplifica equações complexas de correntes elétricas, facilitando a resolução de problemas em linhas de transmissão. Em 1922, Clarke quebrou outra barreira ao ser contratada pela General Electric, tornando-se a primeira engenheira elétrica mulher nos Estados Unidos. Sua carreira foi um farol de inovação. Ela publicou 18 artigos técnicos e escreveu o livro 'Circuit Analysis of A-C Power Systems', que se tornou uma referência na indústria. Em 1947, ela fez história mais uma vez como a primeira professora de engenharia na Universidade de Austin, no Texas.",
+        "morte": "Edith Clarke faleceu em 1959, dois anos após se aposentar, deixando um legado inestimável que pavimentou o caminho para muitas mulheres na ciência e na engenharia. Sua história é um testemunho da perseverança e da importância de seguir a própria vocação."
+      },  
+
+      {
+        "id": "4",
+        "nome": "Mary Jackson",
+        "area": "Engenharia",
+        "grupo": ["Mulher"],
+        "resumo": "De primeira engenheira negra da NASA a uma frente humanitária que ajudou outras mulheres a serem contratadas",
+        "imagem": "string",
+        "nascimento_morte": "1921 - 2005",
+        "origem": "Hampton, Estados Unidos",
+        "nascimento": "Nascida em 1883, em uma fazenda em Maryland, Edith Clarke teve uma infância difícil. Após a morte de seus pais, aos 12 anos, ela foi morar com um tio. Sua vida acadêmica começou em um internato, mas sua ambição a levou além. Aos 18 anos, usando a herança de seus pais, ela decidiu investir em sua educação.",
+        "educação": "Em 1908, ela ingressou no Vassar College para estudar Matemática e Astronomia. Após a formatura, tentou a carreira de professora de matemática, mas rapidamente se desiludiu. Buscando uma nova direção, ela começou a cursar Engenharia Civil na Universidade de Wisconsin em 1911, mas novamente não se encontrou.",
+        "trabalhos": "Sua paixão surgiria de forma inesperada. Em 1912, Clarke começou a trabalhar na AT&T como assistente de computador — uma função que, na época, envolvia cálculos complexos para os quais não existiam calculadoras. Foi lá que ela se aprofundou em teorias de linhas de transmissão e circuitos elétricos. Inspirada por esse trabalho, em 1919, ela se tornou a primeira mulher a obter um mestrado em Engenharia Elétrica no MIT. O ano de 1921 marcou um de seus maiores feitos: ela inventou a calculadora Clarke, patenteada em 1925. Essa ferramenta simplifica equações complexas de correntes elétricas, facilitando a resolução de problemas em linhas de transmissão. Em 1922, Clarke quebrou outra barreira ao ser contratada pela General Electric, tornando-se a primeira engenheira elétrica mulher nos Estados Unidos. Sua carreira foi um farol de inovação. Ela publicou 18 artigos técnicos e escreveu o livro 'Circuit Analysis of A-C Power Systems', que se tornou uma referência na indústria. Em 1947, ela fez história mais uma vez como a primeira professora de engenharia na Universidade de Austin, no Texas.",
+        "morte": "Edith Clarke faleceu em 1959, dois anos após se aposentar, deixando um legado inestimável que pavimentou o caminho para muitas mulheres na ciência e na engenharia. Sua história é um testemunho da perseverança e da importância de seguir a própria vocação."
+      },  
+
+      {
+        "id": "5",
+        "nome": "Stephanie Kwolek",
+        "area": "Engenharia",
+        "grupo": ["Mulher"],
+        "resumo": "A química que vestiu policiais com coletes a prova de balas graças a suas descobertas",
+        "imagem": "string",
+        "nascimento_morte": "1923 - 2014",
+        "origem": "New Kensington, Estados Unidos",
+        "nascimento": "Nascida em 1923, em New Kensington, Pensilvânia, Stephanie Kwolek foi criada pela mãe e, desde a infância, demonstrava um interesse especial por química, tecidos e costura. Em 1946, Stephanie se formou em química no Margaret Morrison Carnegie College.",
+        "educação": "Inicialmente, seu plano ao entrar na empresa DuPont — onde futuramente faria descobertas excepcionais —, era apenas juntar dinheiro para, então, seguir a sua aspiração de estudar medicina. No início Stephanie começou a trabalhar no laboratório de fibras têxteis., mas logo depois, foi designada a uma pesquisa de polímeros que, segundo a própria Stephanie, a interessou tanto que a fez desistir da medicina. A pesquisa buscava novos polímeros e processos de condensação em baixas temperaturas e dentro do projeto que lhe abriu portas, uma de suas maiores conquistas foi a invenção do Kevlar, uma fibra de alta resistência e rigidez que hoje é amplamente utilizada em coletes à prova de balas.",
+        "trabalhos": "Ao longo de sua carreira, Stephanie Kwolek se dedicou a mentorias para outras mulheres cientistas e participou de programas que incentivavam jovens a ingressarem na área, demonstrando seu interesse em expandir a presença feminina na ciência. Por suas descobertas, ela recebeu diversos prêmios, incluindo o National Inventors Hall of Fame (1995), a National Medal of Technology (1996) e a Perkin Medal (1997).",
+        "morte": "Stephanie permaneceu na DuPont Company até se aposentar e em 2014, aos 90 anos, o mundo recebeu a notícia de seu falecimento."
+      },  
+
+      {
+        "id": "6",
+        "nome": "Grace Hopper",
+        "area": "Tecnologia",
+        "grupo": ["Mulher"],
+        "resumo": "Grace Hopper, a contra-almirante da Marinha dos Estados Unidos que liderou a criação de linguagem de programação fundamental para o avanço da computação.",
+        "imagem": "string",
+        "nascimento_morte": "1906 - 1992",
+        "origem": "Nova York, Estados Unidos",
+        "nascimento": "Nascida em 1906, em Nova York, Grace Hopper concluiu sua graduação em matemática e física no Vassar College, onde foi membro da fraternidade Phi Beta Kappa. Em 1928, continuou seus estudos na Universidade de Yale, onde obteve um mestrado em 1930 e um doutorado em matemática em 1934.",
+        "educação": "Em 1933, ainda no início de sua carreira, Grace Hopper começou a lecionar no Vassar College, onde permaneceu por dez anos. Em 1943, alistou-se na Marinha através do programa WAVES (Mulheres Aceitas para o Serviço Voluntário de Emergência). Embora algumas fontes afirmam que, ela havia tentado se alistar antes sendo aceita somente após o ataque a Pearl Harbor, pois em sua primeira tentativa, aos 34 anos, foi rejeitada sob a alegação de que era 'velha e magra demais'. ",
+        "trabalhos": "Sua primeira designação na Marinha foi no projeto de computação 'Bureau of Ships' na Universidade de Harvard. Lá, ela se juntou à equipe que trabalhava no computador Mark I, escrevendo um manual de 561 páginas para seu uso, publicado em 1946. Como uma das três primeiras programadoras do projeto, Hopper foi essencial para a transição dos computadores eletromecânicos para os eletrônicos. Grace Hopper também desempenhou um papel crucial na criação do FLOW-MATIC, a primeira linguagem de programação a usar palavras em inglês para comandos em vez de números. Essa linguagem foi a precursora do COBOL, que, apesar de antigo, ainda é fundamental para diversos sistemas bancários e governamentais. Aos 79 anos, Grace Hopper se aposentou da Marinha. Ao longo de sua vida, recebeu mais de 40 títulos honorários e inúmeros prêmios, destacando-se a Medalha Nacional de Tecnologia, que lhe foi concedida em 1991.",
+        "morte": "Em 1992, aos 86 anos, Grace Hopper foi enterrada com honras militares no Cemitério Nacional de Arlington. Ela deixou um legado notável, com trabalhos que influenciaram e beneficiaram muitos outros grandes nomes da tecnologia."
+      }, 
+      
+      {
+        "id": "7",
+        "nome": "Ada Lovelace",
+        "area": "Tecnologia",
+        "grupo": ["Mulher"],
+        "resumo": "A primeira programadora da história, entre homens e mulheres, tinha o título de Condessa na sociedade inglesa de 1835.",
+        "imagem": "string",
+        "nascimento_morte": "1815 - 1852",
+        "origem": "Inglaterra, Reino Unido",
+        "nascimento": "Nascida na aristocrática Inglaterra em 1815, filha do famoso poeta Lord Byron e de Annabella Milbanke, a educação de Augusta Ada Byron King foi de fato privilegiada, recebendo as influências artísticas do pai e o encorajamento da mãe para a matemática.",
+        "educação": "Ada nunca frequentou uma universidade, sendo formada por tutores particulares, incluindo Mary Somerville, algumas fontes indicam que foi ela quem abriu a principal porta na vida acadêmica de Ada ao apresentá-la a Charles Babbage e ao matemático Augustus De Morgan.",
+        "trabalhos": "Ada traduziu um artigo escrito originalmente em francês por Luigi F. Menabrea sobre a Máquina Analítica de Charles Babbage — uma grande máquina, precursora do computador, composta por engrenagens e alavancas, que funcionava a vapor e tinha como objetivo realizar cálculos programáveis por meio de cartões perfurados. No entanto, ela foi incentivada pelo próprio criador a adicionar suas notas de rodapé. A fama da programadora baseia-se nesse artigo de 66 páginas, com suas notas sendo de duas a três vezes maiores que o manuscrito que traduzia. Ainda em 1843, Ada foi capaz de escrever em detalhes como a máquina de Babbage, que nunca chegou a ser construída por questões de complexidade e financiamento, seria instruída a inserir valores sucessivos em uma fórmula para produzir a sequência de números de Bernoulli e esse foi o marco conhecido como o primeiro algoritmo desenvolvido na história. Ada Lovelace hoje é reconhecida pela sua visão atemporal, construída provavelmente através dos ensinamentos artísticos do falecido pai, de como a Máquina Analítica poderia no futuro fazer cálculos matemáticos, assim como a manipulação de símbolos e a composição de músicas.",
+        "morte": "Além de programadora, Ada também trilhou um caminho político como Condessa Lovelace ao se casar em 1835 com William, 8º Barão King, que apenas três anos depois recebeu o título de Conde de Lovelace. Em 27 de novembro de 1852, aos 36 anos, Ada foi enterrada ao lado do pai, Lord Byron."
+      },  
+
+      {
+        "id": "8",
+        "nome": "Hedy Lamarr",
+        "area": "Tecnologia",
+        "grupo": ["Mulher"],
+        "resumo": "A atriz de Hollywood que desenvolveu uma patente para guiar torpedos durante a Segunda Guerra Mundial.",
+        "imagem": "string",
+        "nascimento_morte": "1914 - 1852",
+        "origem": "Viena, Áustria",
+        "nascimento": "Originária de Viena, em 1914, Hedwig Kiesler, conhecida como Hedy Lamarr, era filha única de Emil e Gertrude Kiesler, e tinha ascendência judaica. Embora alguns textos sobre sua infância se contradigam sobre a riqueza de sua família, é fato que seu pai era banqueiro o que proveu a família boas condições de vida, além disso fontes destacam o quanto Emil era interessado por tecnologia.",
+        "educação": "Hedy Lamarr teve uma formação pouco esperada para uma inventora. Durante a juventude, estudou várias artes, incluindo balé e principalmente, piano, que seria fundamental para sua descoberta. Contudo, sua maior paixão estava no cinema. Desde cedo, atuou em pequenos filmes, e aos dezessete anos, protagonizou o mais famoso e polêmico longa de sua filmografia, 'Êxtase'.",
+        "trabalhos": "Durante sua carreira como atriz na Europa, Hedy também vivia um casamento turbulento com um milionário vendedor de armas. Fontes sugerem que, antes da ascensão nazista na Austria, Friedrich Mandl simpatizava com o grupo, recebendo membros notáveis em sua casa para negociações. Isso, somado ao casamento já conturbado, foi uma das razões que levaram Lamarr a empacotar uma mala cheia de suas joias, fugir para a França e, em seguida, para os Estados Unidos. Uma vez na América do Norte, ela voltou a cativar o mundo com seus personagens, tornando-se uma das atrizes mais bem pagas entre as décadas de 40 e 50. No entanto, a aptidão de Hedy não se restringia às artes. Ela compartilhava o interesse do pai por tecnologia e se dedicava a esse hobby entre um filme e outro. Estimulada pelo avanço da Segunda Guerra Mundial, a atriz-inventora, com o apoio de seu colega compositor George Antheil, criou um sistema de comunicação secreto para torpedos. A tecnologia se baseia na frequência de salto, uma ideia que ambos tiveram e que utilizava registros de pianos mecânicos.",
+        "morte": "Apesar de sua patenteada invenção não ter sido utilizada pela Marinha dos EUA durante a guerra, ela se revelou um avanço crucial e precursor de tecnologias como Wi-Fi, GPS e Bluetooth. Por essa razão, Hedy Lamarr foi agraciada em 1997 com o EFF Pioneer Award e uma menção honrosa por sua contribuição pioneira na eletrônica. Hedy Lamarr entrou para o Hall da Fama de Inventores dos EUA em 2014, embora tenha falecido em 19 de janeiro de 2000, aos 85 anos."
+      },        
+
+      {
+        "id": "9",
+        "nome": "Marie Curie",
+        "area": "Ciência",
+        "grupo": ["Mulher"],
+        "resumo": "Marie Curie, a primeira a conquistar dois prêmios Nobel em áreas diferentes.",
+        "imagem": "string",
+        "nascimento_morte": "1867  - 1934",
+        "origem": "Varsóvia, Polônia",
+        "nascimento": "Marie Curie é reconhecida até hoje como a mãe da radioatividade, mas sua história começou bem antes. Nascida em 7 de novembro de 1867 como Manya Sklodowska em Varsóvia, Polônia, uma cidade que na época estava sob o domínio da Rússia, ela era filha de um professor de matemática e física, sendo ele responsável por despertar seu interesse pela ciência. A infância da cientista, no entanto, foi um pouco conturbada com a instabilidade financeira, dada questões políticas da época e o falecimento da mãe quando Marie tinha apenas dez anos.",
+        "educação": "Seus estudos e os de sua irmã começaram com o pai, até que elas passaram a frequentar uma universidade clandestina, devido a uma proibição sobre o acesso de mulheres à educação formal. Apenas aos 24 anos, ela ingressou na faculdade de Matemática e Física em Sorbonne, em Paris, onde adotou o nome 'Marie'. Em 1893, conquistou seu mestrado em física e, no ano seguinte, em matemática. Sua tese de doutorado foi defendida em 1903. Foi na faculdade que Marie conheceu e se casou com Pierre Curie. Juntos, eles administravam um pequeno laboratório que faria história. Após a morte de Pierre, Marie o sucedeu como professora na Sorbonne.",
+        "trabalhos": "Em 1903, o casal, ao lado de Henri Becquerel, recebeu o Prêmio Nobel de Física pela pesquisa em radioatividade. Mas a história de Marie não parou por aí. Ela se tornou a primeira pessoa a conquistar um segundo Nobel em uma área diferente. Em 1911, foi novamente laureada, desta vez com o Prêmio Nobel de Química, pela descoberta e isolamento do Rádio e do Polônio — este último em homenagem a seu país de origem. Durante a Primeira Guerra Mundial, Marie atuou como voluntária para o governo francês. Ao lado de sua filha Irène Joliot-Curie, ela usou suas descobertas científicas para socorrer os soldados feridos, utilizando máquinas de raio-x para localizar fragmentos de projéteis e outras lesões. Ela ajudou a equipar cerca de 20 carros com equipamentos de raio-x e ministrou aulas, ensinando mulheres a manipulá-los. Inicialmente, o exército resistiu à ideia de mulheres operando os equipamentos, mas a necessidade da guerra fez com que aceitassem a ajuda.",
+        "morte": "Infelizmente, Marie Curie faleceu em 1934, na França. Sua morte por leucemia foi atribuída à alta exposição à radiação ao longo de sua vida."
+      },    
+      
+      {
+        "id": "10",
+        "nome": "Rosalind Franklin",
+        "area": "Ciência",
+        "grupo": ["Mulher"],
+        "resumo": "A química por trás da 'Fotografia 51', que viu o segredo do DNA, mas foi forçada a assistir de longe enquanto seu trabalho era roubado",
+        "imagem": "string",
+        "nascimento_morte": "1920 - 1958",
+        "origem": "Londres, Inglaterra",
+        "nascimento": "Rosalind Franklin, nascida em 1920 em uma família judaica de Londres, se interessou desde pequena pela carreira científica. Filha de um professor do Working Men's College, há imprecisões se ele apoiou ou não a carreira da filha. Fato é que, em 1941, ela se formou em ciências naturais no Newnham College, na Universidade de Cambridge, e em 1945 obteve seu doutorado com uma tese sobre a porosidade do carvão.",
+        "educação": "Em 1947, Rosalind iniciou uma pesquisa no laboratório parisiense 'Laboratoire Central des Services Chimiques de l'État', onde estudou a cristalografia de raios-x e continuou suas pesquisas sobre o carvão. Ao retornar para a Inglaterra, ela utilizou a mesma técnica para investigar a estrutura do DNA, tirando a famosa 'fotografia 51' em 1952, que mostrava a forma de hélice dupla.",
+        "trabalhos": "No ano seguinte, os bioquímicos James Dewey Watson e Francis Crick apresentaram um artigo com o modelo da dupla hélice, usando como base a pesquisa de Franklin sem consultá-la, assim como as fotos que haviam roubado. No mesmo ano, Rosalind se mudou para o Birkbeck College, em Londres, e passou a estudar o vírus do RNA. Mais tarde, inspirada por isso, começou a pesquisar sobre a composição do vírus da poliomielite.",
+        "morte": "Em 1962, Watson e Crick ganharam o Prêmio Nobel de Fisiologia ou Medicina pela famosa descoberta do DNA, que surgiu do trabalho roubado de Franklin. A atitude antiética dos homens já era questionada no momento das publicações, entretanto por uma minoria, e considerando a época que Rosalind Franklin vivia, isso colaborou para que ela não recebesse o devido reconhecimento. A cientista, entretanto, nunca chegou a ver isso, pois em 1958, aos 38 anos, faleceu de câncer."
+      },  
+
+      {
+        "id": "11",
+        "nome": "Rachel Carson",
+        "area": "Ciência",
+        "grupo": ["Mulher"],
+        "resumo": "Rachel Carson, a cientista cujas descobertas incentivaram uma investigação governamental.",
+        "imagem": "string",
+        "nascimento_morte": "1907  - 1964 ",
+        "origem": "Pensilvânia, Estados Unidos",
+        "nascimento": "Rachel Carson nasceu em 27 de maio de 1907 em uma zona rural da Pensilvânia. Desde pequena ela tinha gosto pela natureza e, com o incentivo de sua mãe, Maria Carson, também tinha o costume de escrever bastante.",
+        "educação": "Apesar de ter iniciado o curso de inglês na faculdade Pennsylvania College for Women, trocou-o por biologia, formando-se com grandes honras. Além disso, em 1932, finalizou um mestrado na área de zoologia na Johns Hopkins University, mas por razões financeiras, Carson não deu continuidade a seu doutorado.",
+        "trabalhos": "Após a faculdade, começou a trabalhar no U.S. Bureau of Fisheries em 1936, onde permaneceu por 15 anos. Neste emprego, Carson escreveu folhetos para o público, unindo seus conhecimentos de biologia e a paixão pela escrita. Destacou-se tanto em seus trabalhos que pouco depois foi promovida a editora-chefe das publicações do U.S. Fish and Wildlife Service. Durante sua carreira, escreveu três grandes livros. O primeiro, Under the Sea Wind, de 1941; o segundo, The Sea Around Us, de 1951; e o principal, Silent Spring, de 1962, o título considerado o responsável por iniciar uma revolução ambientalista nos Estados Unidos. No último livro, Rachel Carson denunciou a forma como os pesticidas possuíam um impacto intenso no ecossistema. ",
+        "morte": "Até hoje, Carson é vista como a mãe do ambientalismo, pois na época da publicação, causou rebuliço com as empresas químicas produtoras de pesticidas, que fizeram uma série de investidas para descredibilizá-la. O governo americano iniciou uma investigação particular para confirmar os fatos apontados por Carson e, em 1972, proibiu o uso do DDT, Dicloro-Difenil-Tricloroetano. Rachel Carson faleceu em 1964 em sua casa em Silver Spring, Maryland."
+      }
+  ]
