@@ -1,4 +1,4 @@
-# ✨ Cientistas Invisíveis: Protagonismo e Diversidade STEAM
+# ✨ Cientistas Invisíveis: Protagonismo e Diversidade STEM
 
 > Repositório oficial do projeto submetido ao **Edital de Protagonismo Estudantil do IFSP - Campus Jacareí | Orientado pelo professor: Raul Castanhari**.
 
