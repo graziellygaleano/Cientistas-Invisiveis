@@ -239,7 +239,7 @@ const DADOS_CIENTISTAS = [
     {
     "id": "16",
     "nome": "Dorothy J. Vaughan",
-    "area": ["Matemática"],
+    "area": ["Tecnologia"],
     "grupo": ["PPI", "Mulheres"],
     "resumo": "Matemática e programadora afro-americana que trabalhou como 'computadora humana' na NASA, sendo a primeira supervisora negra da agência e pioneira na programação em FORTRAN.",
     "imagem_perfil_url": "",
@@ -255,7 +255,7 @@ const DADOS_CIENTISTAS = [
     {
     "id": "17",
     "nome": "Clarence Skip Ellis",
-    "area": ["Ciência da Computação", "Física", "Matemática"],
+    "area": ["Tecnologia"],
     "grupo": ["PPI"],
     "resumo": "Cientista da computação afro-americano, a primeira pessoa negra a receber um Ph.D. em Ciência da Computação nos EUA, e inventor do Officetalk, pioneiro em sistemas de colaboração remota.",
     "imagem_perfil_url": "",
@@ -271,7 +271,7 @@ const DADOS_CIENTISTAS = [
     {
     "id": "18",
     "nome": "Evelyn Boyd Granville",
-    "area": ["Matemática", "Programação", "Aeronáutica", "Espaço"],
+    "area": ["Tecnologia"],
     "grupo": ["PPI", "Mulheres na Ciência"],
     "resumo": "Matemática e programadora afro-americana, uma das primeiras mulheres negras a obter um Ph.D. em Matemática nos EUA, crucial para as análises de órbita nas missões espaciais Mercury e Apollo da NASA.",
     "imagem_perfil_url": "",
@@ -287,7 +287,7 @@ const DADOS_CIENTISTAS = [
 {
     "id": "19",
     "nome": "Ernest Everett Just",
-    "area": ["Biologia", "Zoologia", "Desenvolvimento Celular"],
+    "area": ["Ciência"],
     "grupo": ["PPI"],
     "resumo": "Cientista e biólogo afro-americano, pioneiro no estudo do papel da superfície celular no desenvolvimento de organismos e um dos fundadores da Omega Psi Phi Fraternity.",
     "imagem_perfil_url": "",
