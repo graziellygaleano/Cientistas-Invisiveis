@@ -226,7 +226,7 @@ const DADOS_CIENTISTAS = [
     "area": ["Engenharia"],
     "grupo": ["PPI"],
     "resumo": "Um ex-Major General do Corpo de Fuzileiros Navais, astronauta da NASA que voou em quatro missões do ônibus espacial e o 12º Administrador da NASA, sendo o primeiro homem negro a ocupar este cargo.",
-    "imagem_perfil_url": "img/Charles F. Bolden Jr..jpg",
+    "imagem_perfil_url": "img/Charles F. Bolden Jr.jpg",
     "bandeira_url": "img/estados unidos.png",
     "nascimento_morte": "1946 - Presente",
     "origem": "Carolina do Sul, Estados Unidos",
