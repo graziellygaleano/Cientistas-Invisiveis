@@ -83,7 +83,7 @@ h3{
 .container{
     width: 23%;
     background-color: #C04922;
-    padding: 10px; /* Adiciona espaço interno dentro do bloco */
+    padding: 10px; 
     margin-right: 0px;
     transition: all 0.3s ease-in-out; 
     border-radius: 8px; 
@@ -94,24 +94,16 @@ h3{
 
 .container a {
     display: block; 
-    width: 100%;
-    height: 100%;
-    position: absolute; /* Posiciona o link para cobrir tudo */
-    top: 0;
-    left: 0;
-    z-index: 2; /* Mantém o link no topo por padrão */
 }
 
 .texto-overlay {
     position: absolute;
-    /* ... (seus estilos de posicionamento) ... */
-    z-index: 1; /* Garante que o texto está abaixo do link */
+    z-index: 1; 
     opacity: 0; 
     transition: opacity 0.3s ease-in-out;
     pointer-events: none; 
 }
 
-/* Remove a regra de z-index do :hover do link, pois o pointer-events: none resolve o problema */
 .container:hover .menuIcon {
     opacity: 0;
 }
@@ -126,12 +118,12 @@ h3{
 }
 
 .texto-overlay {
-    position: absolute; /* FUNDAMENTAL: Posição absoluta dentro do .container */
+    position: absolute; 
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
-    display: flex; /* Para centralizar o texto */
+    display: flex; 
     align-items: center;
     justify-content: center;
     padding: 5px;
