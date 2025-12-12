@@ -80,6 +80,18 @@ h3{
     padding-bottom: 50px; 
 }
 
+.container{
+    width: 23%;
+    background-color: #C04922;
+    padding: 10px; /* Adiciona espaço interno dentro do bloco */
+    margin-right: 0px;
+    transition: all 0.3s ease-in-out; 
+    border-radius: 8px; 
+    position: relative;
+    box-sizing: border-box;
+
+}
+
 .container a {
     display: block; 
     width: 100%;
@@ -96,8 +108,7 @@ h3{
     z-index: 1; /* Garante que o texto está abaixo do link */
     opacity: 0; 
     transition: opacity 0.3s ease-in-out;
-    pointer-events: none; /* Adicione isso! Faz o texto ser "ignorado" pelo clique,
-                             permitindo que o clique "passe" para o elemento abaixo (o link) */
+    pointer-events: none; 
 }
 
 /* Remove a regra de z-index do :hover do link, pois o pointer-events: none resolve o problema */
