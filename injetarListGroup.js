@@ -69,15 +69,17 @@ function injetarDadosDoGrupo(chaveGrupo) {
         
         // Limpa o último parágrafo (ou injeta um padrão, se desejar)
         const p3 = document.getElementById('descricao-paragrafo-3');
+
         if (p3) {
-             p3.style.display = 'none'; // Apenas para esconder o parágrafo genérico do HTML
-        }
-
-
-    } else {
-        console.error(`Dados não encontrados para o grupo: ${chaveGrupo}`);
-        document.getElementById('titulo-grupo').textContent = "Grupo Não Encontrado";
-    }
+            if (grupo.descricaoTercearia) {
+                // Se a descrição terciária existe no dados.js, injete-a e mostre o parágrafo.
+                p3.textContent = grupo.descricaoTercearia;
+                p3.style.display = 'block'; 
+            } else {
+                // Se a descrição terciária NÃO existe, esconda o parágrafo.
+                p3.textContent = '';
+                p3.style.display = 'none'; 
+            }
 }
 
 

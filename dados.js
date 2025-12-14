@@ -1,6 +1,6 @@
 const DADOS_GRUPOS = {
-    "LGBTQIAP+": {
-            // Mude tituloGrupo para titulo
+    "LGBTQIAP": {
+            // Mude titulo para titulo
             titulo: "Comunidade LGBTQIAP+", 
             // Mude descricao para descricao
             descricao: "Este grupo celebra as contribuições...", 
@@ -16,13 +16,13 @@ const DADOS_GRUPOS = {
         descricaoTercearia: "De Marie Curie a Katherine Johnson, veja como a persistência feminina moldou a ciência moderna."
     },
     "PPI": {
-        tituloGrupo: "Pessoas Pretas e Pardas (PPI)",
+        titulo: "Pessoas Pretas e Pardas (PPI)",
         descricao: "Este grupo homenageia cientistas negros e pardos, cuja genialidade frequentemente foi invisibilizada. O objetivo é ressaltar suas contribuições fundamentais para o avanço da ciência e tecnologia global.",
         descricaoSecundaria: "A representatividade importa. Conheça as mentes brilhantes que vieram das diásporas africanas e afro-brasileiras.",
         descricaoTercearia: "A representatividade importa. Conheça as mentes brilhantes que vieram das diásporas africanas e afro-brasileiras."
     },
     "PCD": {
-        tituloGrupo: "Pessoas com Deficiência (PCD)",
+        titulo: "Pessoas com Deficiência (PCD)",
         descricao: "Este grupo apresenta cientistas que, apesar ou por causa de suas deficiências físicas, sensoriais ou intelectuais, desenvolveram trabalhos inovadores, provando que a capacidade intelectual transcende as limitações físicas.",
         descricaoSecundaria: "A ciência é para todos. Conheça as histórias de superação e genialidade.",
         descricaoTercearia: "A ciência é para todos. Conheça as histórias de superação e genialidade."
