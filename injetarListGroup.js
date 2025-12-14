@@ -45,10 +45,6 @@ function renderizarCientistas(cientistasParaExibir) {
 
     container.innerHTML = htmlContent;
 
-    // Não há elemento total-cientistas no HTML fornecido, então o bloco foi removido.
-    // if (totalElement) {
-    //     totalElement.textContent = cientistasParaExibir.length;
-    // }
 }
 
 function injetarDadosDoGrupo(chaveGrupo) {
