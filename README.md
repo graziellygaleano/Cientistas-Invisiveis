@@ -6,7 +6,7 @@
 
 ## 💡 Sobre o Projeto
 
-O projeto "**Cientistas Invisíveis**" nasceu da necessidade de aumentar a **representatividade** no ambiente acadêmico, especialmente nas áreas **STEAM** (Ciências, Tecnologia, Engenharia, Artes e Matemática).
+O projeto "**Cientistas Invisíveis**" nasceu da necessidade de aumentar a **representatividade** no ambiente acadêmico, especialmente nas áreas **STEAM** (Ciências, Tecnologia, Engenharia e Matemática).
 
 Nossa missão é apresentar e dar **visibilidade** a pesquisadores que representam grupos historicamente sub-representados, tais como:
 
