@@ -96,15 +96,10 @@ window.onload = function() {
         // 3. Injeta o título e a descrição do grupo
         injetarDadosDoGrupo(areaFiltro);
 
-        // 4. Filtra os cientistas (versão simplificada após padronização)
+        // 4. Filtra os cientistas
         listaParaRenderizar = DADOS_CIENTISTAS.filter(cientista => {
             if (!Array.isArray(cientista.grupo)) return false;
-            const chave = areaFiltro.toUpperCase();
-            // Aceita tanto "FEMINISMO" quanto "MULHER"
-            if (chave === 'MULHER' || chave === 'FEMINISMO') {
-                return cientista.grupo.map(g => String(g).toUpperCase()).some(g => g === 'FEMINISMO' || g === 'MULHER');
-            }
-            return cientista.grupo.map(g => String(g).toUpperCase()).includes(chave);
+            return cientista.grupo.map(g => String(g).toUpperCase()).includes(areaFiltro.toUpperCase());
         });
     } else {
         // Se não houver filtro, mostra uma mensagem e limpa o título
