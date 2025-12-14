@@ -80,6 +80,8 @@ function injetarDadosDoGrupo(chaveGrupo) {
                 p3.textContent = '';
                 p3.style.display = 'none'; 
             }
+        }
+    }
 }
 
 
@@ -109,8 +111,9 @@ window.onload = function() {
         if (descContainer) {
             descContainer.innerHTML = `<p>${document.getElementById('descricao-paragrafo-1').textContent}</p>`;
         }
-    }
+    };
     
     // 5. Renderiza a lista de cards
     renderizarCientistas(listaParaRenderizar);
-};
+    
+}
