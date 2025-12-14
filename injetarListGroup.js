@@ -88,6 +88,7 @@ function injetarDadosDoGrupo(chaveGrupo) {
 window.onload = function() {
     // 1. Pega o parâmetro 'area' da URL
     const areaFiltro = getUrlParameter('area'); 
+    console.log("Filtro de área recebido:", areaFiltro);
     
     // 2. Garante que temos uma lista de cientistas para renderizar
     let listaParaRenderizar = DADOS_CIENTISTAS || [];
