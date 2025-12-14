@@ -9,7 +9,7 @@ const DADOS_GRUPOS = {
             // Se p3 for o 3º parágrafo, pode ser:
             descricaoTercearia: "O talento não tem orientação sexual e identidade de gênero..." 
         },
-    "Feminismo": {
+    "Mulher": {
         titulo: "Mulheres na Ciência (Feminismo)",
         descricao: "Este grupo destaca a trajetória de mulheres que quebraram barreiras e fizeram descobertas cruciais em todas as áreas do conhecimento, muitas vezes superando o apagamento histórico e o preconceito de gênero.",
         descricaoSecundaria: "De Marie Curie a Katherine Johnson, veja como a persistência feminina moldou a ciência moderna.",
@@ -275,7 +275,7 @@ const DADOS_CIENTISTAS = [
     "id": "16",
     "nome": "Dorothy J. Vaughan",
     "area": ["Tecnologia"],
-    "grupo": ["PPI", "Mulheres"],
+    "grupo": ["PPI", "Mulher"],
     "resumo": "Matemática e programadora afro-americana que trabalhou como 'computadora humana' na NASA, sendo a primeira supervisora negra da agência e pioneira na programação em FORTRAN.",
     "imagem_perfil_url": "img/portrait.png",
     "bandeira_url": "img/estados unidos.png",
@@ -307,7 +307,7 @@ const DADOS_CIENTISTAS = [
     "id": "18",
     "nome": "Evelyn Boyd Granville",
     "area": ["Tecnologia"],
-    "grupo": ["PPI", "Mulheres na Ciência"],
+    "grupo": ["PPI", "Mulher"],
     "resumo": "Matemática e programadora afro-americana, uma das primeiras mulheres negras a obter um Ph.D. em Matemática nos EUA, crucial para as análises de órbita nas missões espaciais Mercury e Apollo da NASA.",
     "imagem_perfil_url": "img/portrait.png",
     "bandeira_url": "img/estados unidos.png",
