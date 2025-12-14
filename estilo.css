@@ -6,34 +6,51 @@
     height: auto;
 }
 
-.barra{
-
-    width: 1541px;
-    margin: auto;
-    height: 100px;
+.barra {
+    /* Mantém o display: flex para alinhar os filhos (logo e minorias) horizontalmente */
     display: flex;
-    justify-content: space-between;
+    /* Alinha os filhos verticalmente ao centro */
+    align-items: center; 
+    /* Distribui o espaço entre a logo e as minorias (se quiser que um fique na esquerda e o outro na direita) */
+    justify-content: space-between; 
+    
+    /* Recomendo ajustar as propriedades de largura e margem para um design mais responsivo ou focado */
+    width: 90%; /* Ajuste a largura conforme sua preferência, 90% ou um valor fixo */
+    max-width: 1541px; /* Limite a largura máxima */
+    margin: 0 auto; /* Centraliza a barra na página */
+    height: 100px; /* Mantém a altura */
+    /* Removendo "margin: 0px 10px;" daqui, pois "margin: 0 auto;" já centraliza */
+}
+
+.logoIfsp {
+    /* Não precisa de grandes mudanças aqui */
+    width: auto;
+}
+
+.minorias {
+    /* O contêiner de minorias precisa usar display: flex para alinhar os ícones horizontalmente */
+    display: flex;
+    /* Garante que os ícones dentro de .minorias estejam alinhados verticalmente */
     align-items: center;
-    margin: 0px 10px;
-
-}
-
-
-.logoIfsp{
+    /* Adiciona um pequeno espaço entre os ícones */
+    gap: 10px; 
     width: auto;
-
 }
 
-.minorias{
-    width: auto;
-
+/* Opcional: Estilo para os contêineres individuais dos ícones */
+.container-minoria {
+    /* Garante que os contêineres dos links não interfiram no alinhamento */
+    display: flex;
+    align-items: center;
 }
 
-.minorias img{
-    max-width: 500px;  
-    max-height: 90px;
+.minorias img {
+    /* Ajustes para o tamanho das imagens/ícones */
+    max-width: 60px; 
+    max-height: 60px;
     height: auto; 
     width: auto;
+    object-fit: contain; 
 }
 
 .tituloProjeto{
@@ -181,7 +198,8 @@ h3{
     display: flex;
     align-items: center;
     margin-left: auto; 
-    padding: 0px 40px 0px 0px
+    padding: 0px 40px 0px 0px;
+    margin-bottom: 60px;
 }
 
 .voltarPagina:link, .voltarPagina:visited {
@@ -394,3 +412,10 @@ h3{
  
 }
 
+.TituloGroup{
+    margin: auto;
+    display: center;
+    font-size: 50px;
+    font-family: "Inter", sans-serif;    
+    color: #C04922;
+}

@@ -1,3 +1,31 @@
+const DADOS_GRUPOS = {
+    "LGBTQIAP": {
+        titulo: "Comunidade LGBTQIAP+",
+        descricao: "Este grupo celebra as contribuições de cientistas que se identificam como Lésbicas, Gays, Bissexuais, Trans, Queer, Intersex, Assexuais e Pansexuais. Suas histórias desafiam estereótipos e enriquecem o ambiente científico com diversas perspectivas.",
+        // Você pode adicionar mais descrições aqui, por exemplo:
+        descricaoSecundaria: "O talento não tem orientação sexual ou identidade de gênero. Conheça as mentes que fizeram história." 
+    },
+    "Feminismo": {
+        titulo: "Mulheres na Ciência (Feminismo)",
+        descricao: "Este grupo destaca a trajetória de mulheres que quebraram barreiras e fizeram descobertas cruciais em todas as áreas do conhecimento, muitas vezes superando o apagamento histórico e o preconceito de gênero.",
+        descricaoSecundaria: "De Marie Curie a Katherine Johnson, veja como a persistência feminina moldou a ciência moderna."
+    },
+    "PPI": {
+        titulo: "Pessoas Pretas e Pardas (PPI)",
+        descricao: "Este grupo homenageia cientistas negros e pardos, cuja genialidade frequentemente foi invisibilizada. O objetivo é ressaltar suas contribuições fundamentais para o avanço da ciência e tecnologia global.",
+        descricaoSecundaria: "A representatividade importa. Conheça as mentes brilhantes que vieram das diásporas africanas e afro-brasileiras."
+    },
+    "PCD": {
+        titulo: "Pessoas com Deficiência (PCD)",
+        descricao: "Este grupo apresenta cientistas que, apesar ou por causa de suas deficiências físicas, sensoriais ou intelectuais, desenvolveram trabalhos inovadores, provando que a capacidade intelectual transcende as limitações físicas.",
+        descricaoSecundaria: "A ciência é para todos. Conheça as histórias de superação e genialidade."
+    }
+    // ... adicione outras áreas aqui (se houver)
+};
+
+
+
+
 const DADOS_CIENTISTAS = [
     { 
       "id": "1", 
@@ -301,3 +329,5 @@ const DADOS_CIENTISTAS = [
   }
 
   ];
+
+
