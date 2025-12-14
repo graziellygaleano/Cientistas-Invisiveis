@@ -130,7 +130,7 @@ const DADOS_CIENTISTAS = [
       "area": ["Ciência"], 
       "grupo": ["Mulher"], 
       "resumo": "Marie Curie, a primeira a conquistar dois prêmios Nobel em áreas diferentes.", 
-      "imagem_perfil_url": "img/Marie Curie.jpg", 
+      "imagem_perfil_url": "img/MarieCurie.jpg", 
       "bandeira_url": "img/polonia.webp", 
       "nascimento_morte": "1867- 1934", 
       "origem": "Varsóvia, Polônia",
