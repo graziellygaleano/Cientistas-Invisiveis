@@ -1,28 +1,31 @@
 const DADOS_GRUPOS = {
     "LGBTQIAP+": {
-        tituloGrupo: "Comunidade LGBTQIAP+",
-        descricaoP1: "Este grupo celebra as contribuições de cientistas que se identificam como Lésbicas, Gays, Bissexuais, Trans, Queer, Intersex, Assexuais e Pansexuais. Suas histórias desafiam estereótipos e enriquecem o ambiente científico com diversas perspectivas.",
-        // Você pode adicionar mais descrições aqui, por exemplo:
-        descricaoP2: "O talento não tem orientação sexual ou identidade de gênero. Conheça as mentes que fizeram história.",
-        descricaoP3: "O talento não tem orientação sexual ou identidade de gênero. Conheça as mentes que fizeram história." 
-    },
+            // Mude tituloGrupo para titulo
+            titulo: "Comunidade LGBTQIAP+", 
+            // Mude descricao para descricao
+            descricao: "Este grupo celebra as contribuições...", 
+            // Mude descricaoSecundaria para descricaoSecundaria
+            descricaoSecundaria: "O talento não tem orientação sexual...",
+            // Se p3 for o 3º parágrafo, pode ser:
+            descricaoTercearia: "O talento não tem orientação sexual e identidade de gênero..." 
+        },
     "Feminismo": {
-        tituloGrupo: "Mulheres na Ciência (Feminismo)",
-        descricaoP1: "Este grupo destaca a trajetória de mulheres que quebraram barreiras e fizeram descobertas cruciais em todas as áreas do conhecimento, muitas vezes superando o apagamento histórico e o preconceito de gênero.",
-        descricaoP2: "De Marie Curie a Katherine Johnson, veja como a persistência feminina moldou a ciência moderna.",
-        descricaoP3: "De Marie Curie a Katherine Johnson, veja como a persistência feminina moldou a ciência moderna."
+        titulo: "Mulheres na Ciência (Feminismo)",
+        descricao: "Este grupo destaca a trajetória de mulheres que quebraram barreiras e fizeram descobertas cruciais em todas as áreas do conhecimento, muitas vezes superando o apagamento histórico e o preconceito de gênero.",
+        descricaoSecundaria: "De Marie Curie a Katherine Johnson, veja como a persistência feminina moldou a ciência moderna.",
+        descricaoTercearia: "De Marie Curie a Katherine Johnson, veja como a persistência feminina moldou a ciência moderna."
     },
     "PPI": {
         tituloGrupo: "Pessoas Pretas e Pardas (PPI)",
-        descricaoP1: "Este grupo homenageia cientistas negros e pardos, cuja genialidade frequentemente foi invisibilizada. O objetivo é ressaltar suas contribuições fundamentais para o avanço da ciência e tecnologia global.",
-        descricaoP2: "A representatividade importa. Conheça as mentes brilhantes que vieram das diásporas africanas e afro-brasileiras.",
-        descricaoP3: "A representatividade importa. Conheça as mentes brilhantes que vieram das diásporas africanas e afro-brasileiras."
+        descricao: "Este grupo homenageia cientistas negros e pardos, cuja genialidade frequentemente foi invisibilizada. O objetivo é ressaltar suas contribuições fundamentais para o avanço da ciência e tecnologia global.",
+        descricaoSecundaria: "A representatividade importa. Conheça as mentes brilhantes que vieram das diásporas africanas e afro-brasileiras.",
+        descricaoTercearia: "A representatividade importa. Conheça as mentes brilhantes que vieram das diásporas africanas e afro-brasileiras."
     },
     "PCD": {
         tituloGrupo: "Pessoas com Deficiência (PCD)",
-        descricaoP1: "Este grupo apresenta cientistas que, apesar ou por causa de suas deficiências físicas, sensoriais ou intelectuais, desenvolveram trabalhos inovadores, provando que a capacidade intelectual transcende as limitações físicas.",
-        descricaoP2: "A ciência é para todos. Conheça as histórias de superação e genialidade.",
-        descricaoP3: "A ciência é para todos. Conheça as histórias de superação e genialidade."
+        descricao: "Este grupo apresenta cientistas que, apesar ou por causa de suas deficiências físicas, sensoriais ou intelectuais, desenvolveram trabalhos inovadores, provando que a capacidade intelectual transcende as limitações físicas.",
+        descricaoSecundaria: "A ciência é para todos. Conheça as histórias de superação e genialidade.",
+        descricaoTercearia: "A ciência é para todos. Conheça as histórias de superação e genialidade."
     }
     // ... adicione outras áreas aqui (se houver)
 };
