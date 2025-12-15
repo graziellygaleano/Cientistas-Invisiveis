@@ -1,33 +1,28 @@
 const DADOS_GRUPOS = {
     "LGBTQIAP": {
-            // Mude titulo para titulo
-            titulo: "Comunidade LGBTQIAP+", 
-            // Mude descricao para descricao
-            descricao: "Este grupo celebra as contribuições...", 
-            // Mude descricaoSecundaria para descricaoSecundaria
-            descricaoSecundaria: "O talento não tem orientação sexual...",
-            // Se p3 for o 3º parágrafo, pode ser:
-            descricaoTercearia: "O talento não tem orientação sexual e identidade de gênero..." 
+        titulo: "Comunidade LGBTQIAPN+", 
+        descricao: "A sigla LGBTQIAPN+ (Lésbicas, Gays, Bissexuais, Transexuais, Queers, Intersexuais, Assexuais, Pansexuais, Não binárias e mais) representa um grupo de pessoas com diferentes sexualidades e identidades de gênero.", 
+        descricaoSecundaria: "Apesar da desinformação, é um grupo de pessoas que sempre esteve presente na sociedade, vivendo de formas diferentes com o passar dos anos, mesmo que, sua luta por direitos só tenha começado a ganhar mais notoriedade durante a década de sessenta.",
+        descricaoTercearia: "É nesse período que o grupo passa a participar de manifestações políticas, reagindo à repressão policial, uma vez que a atração por pessoas do mesmo gênero era considerada, em muitos países como os Estados Unidos, um crime punido com leis severas. Mesmo depois de décadas de manifestações, até hoje existem diversos países onde ser uma pessoa LGBTQIAPN+ ainda é uma violação legal ou pode ser considerado um crime." 
         },
     "Mulher": {
-        titulo: "Mulheres na Ciência (Feminismo)",
-        descricao: "Este grupo destaca a trajetória de mulheres que quebraram barreiras e fizeram descobertas cruciais em todas as áreas do conhecimento, muitas vezes superando o apagamento histórico e o preconceito de gênero.",
-        descricaoSecundaria: "De Marie Curie a Katherine Johnson, veja como a persistência feminina moldou a ciência moderna.",
-        descricaoTercearia: "De Marie Curie a Katherine Johnson, veja como a persistência feminina moldou a ciência moderna."
+        titulo: "Mulheres (Feminismo)",
+        descricao: "As mulheres pertencem a um grupo minoritário que levou a um movimento conhecido como Feminismo.",
+        descricaoSecundaria: "Esse movimento reconhece a distinção de tratamento e oportunidades entre gêneros em diversas situações socioeconômicas e luta exatamente contra isso. Sua principal ambição é uma sociedade mais equitativa com direitos iguais para todos.",
+        descricaoTercearia: "O movimento surge por volta do século XIX, durante a Revolução Francesa, e até hoje tem vivido muitas ondas — momentos distintos em que diferentes direitos estão sendo buscados —, um exemplo seria o direito à educação e ao voto. Atualmente, o principal objetivo da luta é o direito à saúde feminina."
     },
     "PPI": {
         titulo: "Pessoas Pretas e Pardas (PPI)",
-        descricao: "Este grupo homenageia cientistas negros e pardos, cuja genialidade frequentemente foi invisibilizada. O objetivo é ressaltar suas contribuições fundamentais para o avanço da ciência e tecnologia global.",
-        descricaoSecundaria: "A representatividade importa. Conheça as mentes brilhantes que vieram das diásporas africanas e afro-brasileiras.",
-        descricaoTercearia: "A representatividade importa. Conheça as mentes brilhantes que vieram das diásporas africanas e afro-brasileiras."
+        descricao: "A comunidade composta de pessoas pretas, pardas e indígenas foi constituída historicamente de forma marginalizada, por meio de ações estruturais como a colonização e a escravidão, responsáveis por acarrear desigualdades raciais. Diante desse cenário, surgem movimentos sociais visando os direitos dessas comunidades.",
+        descricaoSecundaria: "Representando pessoas pretas e pardas, pode ser citada a mobilização social Black Lives Matter, que repercutiu bastante durante a pandemia e foi uma resposta à violenta repressão policial da época.",
+        descricaoTercearia: "Na comunidade indígena, a Articulação dos Povos Indígenas do Brasil (APIB) é a principal organização de mobilização indígena no país, com sua atuação na defesa dos direitos dos povos originários, especialmente quanto à demarcação de terras, à proteção cultural e ao acesso a políticas públicas."
     },
     "PCD": {
         titulo: "Pessoas com Deficiência (PCD)",
-        descricao: "Este grupo apresenta cientistas que, apesar ou por causa de suas deficiências físicas, sensoriais ou intelectuais, desenvolveram trabalhos inovadores, provando que a capacidade intelectual transcende as limitações físicas.",
-        descricaoSecundaria: "A ciência é para todos. Conheça as histórias de superação e genialidade.",
-        descricaoTercearia: "A ciência é para todos. Conheça as histórias de superação e genialidade."
+        descricao: "O movimento que luta pela inclusão, acessibilidade e direitos iguais das pessoas com deficiência tem como lema Nada sobre nós, sem nós, exigindo seu protagonismo na criação de leis.",
+        descricaoSecundaria: "Ele ganhou mais força e visibilidade após a Segunda Guerra Mundial — um período em que muitos soldados voltaram para casa com sequelas da guerra — e, especialmente, no início dos anos 60, com o surgimento do Movimento de Vida Independente. Isso forçou a sociedade a enxergar as pessoas além de suas deficiências e a encarar a necessidade de sua reintegração social.",
+        descricaoTercearia: "Atualmente, o movimento continua a lutar pelos direitos das pessoas com deficiência e enfrenta novos desafios de respeito e acessibilidade. Entre eles, destacam-se a inclusão no mundo digital e a atenção às deficiências invisíveis, que também passaram a fazer parte da pauta dessa luta."
     }
-    // ... adicione outras áreas aqui (se houver)
 };
 
 
