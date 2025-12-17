@@ -343,6 +343,22 @@ const DADOS_CIENTISTAS = [
         "educação": "Durante a adolescência, frequentou o colégio interno Sherborne School. Após sua formação, passou a estudar na King’s College em Cambridge a partir de 1931 e, posteriormente, mudou-se para a Universidade de Princeton para estudar com Alonzo Church, um proeminente matemático e cientista da computação. Após formar-se na faculdade e obter seu PhD, Turing moveu seus esforços para quebrar códigos alemães em decorrência da Segunda Guerra Mundial, mesmo que inicialmente tivesse uma postura anti-guerra. Com a derrota dos alemães, passou a trabalhar no Automatic Computing Engine (ACE) no Laboratório Nacional de Física.",
         "trabalhos": "Apesar de seus trabalhos bem reconhecidos, o pesquisador recebeu algumas repressões por conta de sua sexualidade. Dizem que Turing chegou a propor uma colega de trabalho, Joan Clarke, em casamento, mas que apenas alguns dias depois revelou a ela que era homossexual. Mesmo com seus esforços para ajudar na guerra, ele foi processado por uma “indecência grave” após descoberto seu relacionamento com outro homem e condenado à castração química.",
         "morte": "Postumamente, Turing chegou a ser perdoado em 2013 e, em 2016, foi aprovada a “Lei Alan Turing” que revogava sentenças de todos os homens condenados por leis semelhantes. Infelizmente, o pesquisador nunca teve a chance de ver isso, pois em 8 de junho de 1954 havia falecido por envenenamento com cianeto."
+      },
+
+    {
+        "id": "21",
+        "nome": "Steephen Hawking",
+        "area": ["Ciência"],
+        "grupo": ["PCD"],
+        "resumo": "O físico teórico que desafiou as probabilidades e expandiu nossa compreensão do universo, apesar de viver com uma doença neurodegenerativa.",
+        "imagem_perfil_url": "img/Stephen_Hawking.png",
+        "bandeira_url": "img/reino unido.jpg",
+        "nascimento_morte": "1942 - 2018",
+        "origem": "Londres, Inglaterra",
+        "nascimento": "Stephen William Hawking nasceu em Oxford, em 8 de janeiro de 1942. Seu futuro como pesquisador já podia ser observado desde a infância, quando ele dizia querer conhecer as profundezas do Universo, pois era na Física e na Astronomia que encontrava as respostas para o que questionava.",
+        "educação": "Ele frequentou a St Albans School, onde seus colegas frequentemente o chamavam de Einstein. Após o ensino médio, aos 17 anos, recebeu uma bolsa para a University College Oxford, graduando-se com honras em Física. Em 1962, iniciou seu doutorado em Cambridge e, em 1966, publicou sua tese de PhD a favor da teoria do Big Bang. Entre suas descobertas revolucionárias, destaca-se o ano de 1974, quando previu teoricamente que buracos negros emitem radiação.",
+        "trabalhos": "Foi em 1963, no entanto, que Hawking foi diagnosticado com a doença do neurônio motor, recebendo uma estimativa de apenas dois anos de vida. Contrariando o diagnóstico, ele viveu por décadas, embora tenha perdido a habilidade de falar após uma traqueostomia de emergência nos anos 80. Foi graças à doação de um software de síntese de voz que ele pôde continuar se comunicando, por meio da conhecida voz robotizada.",
+        "morte": 'Para aqueles que desejam se aventurar pelos mistérios do universo, como ele mesmo um dia quis, seu best-seller "Uma Breve História do Tempo" apresenta conceitos de Física e Astronomia em um linguajar acessível e interessante. Stephen William Hawking faleceu aos 76 anos, em Cambridge.'
       }
 
 
