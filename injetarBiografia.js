@@ -1,23 +1,18 @@
-// Funções necessárias para a biografia (injetarBiografia.js)
 
-// Função para pegar o parâmetro da URL (reutilizada do seu código)
 function getUrlParameter(name) {
     const urlParams = new URLSearchParams(window.location.search); 
     return urlParams.get(name);
 }
 
-// Função principal para injetar os dados na página biográfica
+
 function injetarDadosBiografia() {
-    // 1. Obter o ID do cientista na URL
     const cientistaId = getUrlParameter('id'); 
 
-    // Checagem de segurança (assumindo que DADOS_CIENTISTAS é global e carregado)
     if (!cientistaId || typeof DADOS_CIENTISTAS === 'undefined') {
         console.error("ID do cientista não encontrado na URL ou DADOS_CIENTISTAS ausente.");
         return; 
     }
 
-    // 2. Buscar o objeto do cientista na lista de dados
     const cientista = DADOS_CIENTISTAS.find(c => c.id === cientistaId);
 
     if (!cientista) {
@@ -25,17 +20,13 @@ function injetarDadosBiografia() {
         return; 
     }
 
-    // 3. Seletores e Injeção de Dados
     const conteudoBiografico = document.querySelector('.conteudoBibiografico');
     const portraitAside = document.querySelector('.portrait');
 
-    // --- Injeção no Conteúdo Biográfico (Coluna da Direita) ---
     if (conteudoBiografico) {
-        // Título H1 (Nome)
         const h1 = conteudoBiografico.querySelector('.nomeCientista h1');
         if (h1) h1.textContent = cientista.nome;
 
-        // Frase Marcante (Usando 'resumo' como frase, já que 'frase_marcante' não existe no JSON)
         const fraseP = conteudoBiografico.querySelector('.fraseMarcante');
         if (fraseP) fraseP.textContent = cientista.resumo || 'Sem frase marcante definida.';
         
@@ -62,6 +53,13 @@ function injetarDadosBiografia() {
         if (img) {
             img.src = cientista.imagem_perfil_url;
             img.alt = `Foto de ${cientista.nome}`;
+        }
+        //Fonte
+        const elementoFonte = portraitAside.querySelector('.fonte p');
+
+    // 2. INJETA O DADO (Faltava isso!)
+        if (elementoFonte && cientista.fonte_biografia) {
+            elementoFonte.textContent = cientista.fonte;
         }
 
         const informativoDiv = portraitAside.querySelector('.informativo');
