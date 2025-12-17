@@ -327,6 +327,23 @@ const DADOS_CIENTISTAS = [
         "educação": "Seu primeiro cargo na Universidade de Howard foi no Departamento de Inglês. Entretanto, ele foi movido para o Departamento de Biologia em 1910, para logo em seguida ser promovido a chefe do Departamento de Zoologia, área de seu doutorado. Ele trabalhou com Frank Lillie, diretor do MBL (Marine Biological Laboratory), onde Ernest permaneceu por décadas como pesquisador e se focou em estudar como ovos de ouriços do mar são fertilizados.",
         "trabalhos": "Seu trabalho é reconhecido pelas pesquisas sobre o papel da superfície celular no desenvolvimento de organismos. Em 1922, publicou 'Basic Methods for Experiments on Eggs of Marine Animals' e, em 1939, o famoso livro 'The Biology of the Cell Surface'. Ao longo da carreira, escreveu cerca de 50 artigos.",
         "morte": "Ernest enfrentou um preconceito considerável nos EUA e não recebeu posições de pesquisa ou docência que fossem compatíveis com seu talento, o que o levou a buscar oportunidades na Europa, sendo o primeiro americano a ser convidado para conduzir pesquisas no Instituto Kaiser Wilhelm, em Berlim, na Alemanha. Entretanto, com o escalonamento da 2ª Guerra Mundial, foi obrigado a retornar para a América do Norte, pouco antes de sua morte. Ernest Everett Just faleceu em 1941 em Washington, D.C., por câncer no pâncreas."
+      },
+    
+    {
+        "id": "20",
+        "nome": "Alan Turing",
+        "area": ["Tecnologia"],
+        "grupo": ["LGBTQIAPN+"],
+        "resumo": "Pai da computação e herói de guerra: Alan Turing que ajudou a derrotar os Nazistas, mas foi vencido pelo preconceito do próprio país.",
+        "imagem_perfil_url": "",
+        "bandeira_url": "",
+        "nascimento_morte": "1912 - 1954",
+        "origem": "Londres, Inglaterra",
+        "nascimento": "O britânico Alan Turing nasceu em Londres em 23 de junho de 1912, filho de Julius Mathison Turing e Ethel Sara Turing. Seu interesse por matemática era observado desde pequeno e, aos 16 anos, ele já resolvia problemas avançados sem mesmo ter tido aulas de cálculo.",
+        "educação": "Durante a adolescência, frequentou o colégio interno Sherborne School. Após sua formação, passou a estudar na King’s College em Cambridge a partir de 1931 e, posteriormente, mudou-se para a Universidade de Princeton para estudar com Alonzo Church, um proeminente matemático e cientista da computação. Após formar-se na faculdade e obter seu PhD, Turing moveu seus esforços para quebrar códigos alemães em decorrência da Segunda Guerra Mundial, mesmo que inicialmente tivesse uma postura anti-guerra. Com a derrota dos alemães, passou a trabalhar no Automatic Computing Engine (ACE) no Laboratório Nacional de Física.",
+        "trabalhos": "Apesar de seus trabalhos bem reconhecidos, o pesquisador recebeu algumas repressões por conta de sua sexualidade. Dizem que Turing chegou a propor uma colega de trabalho, Joan Clarke, em casamento, mas que apenas alguns dias depois revelou a ela que era homossexual. Mesmo com seus esforços para ajudar na guerra, ele foi processado por uma “indecência grave” após descoberto seu relacionamento com outro homem e condenado à castração química.",
+        "morte": "Postumamente, Turing chegou a ser perdoado em 2013 e, em 2016, foi aprovada a “Lei Alan Turing” que revogava sentenças de todos os homens condenados por leis semelhantes. Infelizmente, o pesquisador nunca teve a chance de ver isso, pois em 8 de junho de 1954 havia falecido por envenenamento com cianeto.
+"
       }
 
 
