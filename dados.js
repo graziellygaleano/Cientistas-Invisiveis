@@ -12,14 +12,14 @@ const DADOS_GRUPOS = {
         descricaoTercearia: "O movimento surge por volta do século XIX, durante a Revolução Francesa, e até hoje tem vivido muitas ondas — momentos distintos em que diferentes direitos estão sendo buscados —, um exemplo seria o direito à educação e ao voto. Atualmente, o principal objetivo da luta é o direito à saúde feminina."
     },
     "PPI": {
-        titulo: "Pessoas Pretas e Pardas (PPI)",
-        descricao: "A comunidade composta de pessoas pretas, pardas e indígenas foi constituída historicamente de forma marginalizada, por meio de ações estruturais como a colonização e a escravidão, responsáveis por acarrear desigualdades raciais. Diante desse cenário, surgem movimentos sociais visando os direitos dessas comunidades.",
+        titulo: "Pessoas Pretas, Pardas e indígenas (PPI)",
+        descricao: "A comunidade composta de pessoas pretas, pardas e indígenas foi constituída historicamente de forma marginalizada, por meio de ações estruturais como a colonização e a escravidão, responsáveis por acarretar desigualdades raciais. Diante desse cenário, surgem movimentos sociais visando os direitos dessas comunidades.",
         descricaoSecundaria: "Representando pessoas pretas e pardas, pode ser citada a mobilização social Black Lives Matter, que repercutiu bastante durante a pandemia e foi uma resposta à violenta repressão policial da época.",
         descricaoTercearia: "Na comunidade indígena, a Articulação dos Povos Indígenas do Brasil (APIB) é a principal organização de mobilização indígena no país, com sua atuação na defesa dos direitos dos povos originários, especialmente quanto à demarcação de terras, à proteção cultural e ao acesso a políticas públicas."
     },
     "PCD": {
         titulo: "Pessoas com Deficiência (PCD)",
-        descricao: "O movimento que luta pela inclusão, acessibilidade e direitos iguais das pessoas com deficiência tem como lema Nada sobre nós, sem nós, exigindo seu protagonismo na criação de leis.",
+        descricao: 'O movimento que luta pela inclusão, acessibilidade e direitos iguais das pessoas com deficiência tem como lema "Nada sobre nós, sem nós", exigindo seu protagonismo na criação de leis.',
         descricaoSecundaria: "Ele ganhou mais força e visibilidade após a Segunda Guerra Mundial — um período em que muitos soldados voltaram para casa com sequelas da guerra — e, especialmente, no início dos anos 60, com o surgimento do Movimento de Vida Independente. Isso forçou a sociedade a enxergar as pessoas além de suas deficiências e a encarar a necessidade de sua reintegração social.",
         descricaoTercearia: "Atualmente, o movimento continua a lutar pelos direitos das pessoas com deficiência e enfrenta novos desafios de respeito e acessibilidade. Entre eles, destacam-se a inclusão no mundo digital e a atenção às deficiências invisíveis, que também passaram a fazer parte da pauta dessa luta."
     }
