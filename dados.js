@@ -88,7 +88,7 @@ const DADOS_CIENTISTAS = [
       "nascimento_morte": "1921 - 2005", 
       "origem": "Hampton, Estados Unidos",
       "nascimento": "", "educação": "", "trabalhos": "", "morte": "" 
-    },  
+    },
 
     { 
       "id": "5", 
@@ -342,8 +342,7 @@ const DADOS_CIENTISTAS = [
         "nascimento": "O britânico Alan Turing nasceu em Londres em 23 de junho de 1912, filho de Julius Mathison Turing e Ethel Sara Turing. Seu interesse por matemática era observado desde pequeno e, aos 16 anos, ele já resolvia problemas avançados sem mesmo ter tido aulas de cálculo.",
         "educação": "Durante a adolescência, frequentou o colégio interno Sherborne School. Após sua formação, passou a estudar na King’s College em Cambridge a partir de 1931 e, posteriormente, mudou-se para a Universidade de Princeton para estudar com Alonzo Church, um proeminente matemático e cientista da computação. Após formar-se na faculdade e obter seu PhD, Turing moveu seus esforços para quebrar códigos alemães em decorrência da Segunda Guerra Mundial, mesmo que inicialmente tivesse uma postura anti-guerra. Com a derrota dos alemães, passou a trabalhar no Automatic Computing Engine (ACE) no Laboratório Nacional de Física.",
         "trabalhos": "Apesar de seus trabalhos bem reconhecidos, o pesquisador recebeu algumas repressões por conta de sua sexualidade. Dizem que Turing chegou a propor uma colega de trabalho, Joan Clarke, em casamento, mas que apenas alguns dias depois revelou a ela que era homossexual. Mesmo com seus esforços para ajudar na guerra, ele foi processado por uma “indecência grave” após descoberto seu relacionamento com outro homem e condenado à castração química.",
-        "morte": "Postumamente, Turing chegou a ser perdoado em 2013 e, em 2016, foi aprovada a “Lei Alan Turing” que revogava sentenças de todos os homens condenados por leis semelhantes. Infelizmente, o pesquisador nunca teve a chance de ver isso, pois em 8 de junho de 1954 havia falecido por envenenamento com cianeto.
-"
+        "morte": "Postumamente, Turing chegou a ser perdoado em 2013 e, em 2016, foi aprovada a “Lei Alan Turing” que revogava sentenças de todos os homens condenados por leis semelhantes. Infelizmente, o pesquisador nunca teve a chance de ver isso, pois em 8 de junho de 1954 havia falecido por envenenamento com cianeto."
       }
 
 
