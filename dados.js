@@ -184,7 +184,7 @@ const DADOS_CIENTISTAS = [
       "educação": "Em 1947, Rosalind iniciou uma pesquisa no laboratório parisiense 'Laboratoire Central des Services Chimiques de l'État', onde estudou a cristalografia de raios-x e continuou suas pesquisas sobre o carvão. Ao retornar para a Inglaterra, ela utilizou a mesma técnica para investigar a estrutura do DNA, tirando a famosa 'fotografia 51' em 1952, que mostrava a forma de hélice dupla.",
       "trabalhos": "No ano seguinte, os bioquímicos James Dewey Watson e Francis Crick apresentaram um artigo com o modelo da dupla hélice, usando como base a pesquisa de Franklin sem consultá-la, assim como as fotos que haviam roubado. No mesmo ano, Rosalind se mudou para o Birkbeck College, em Londres, e passou a estudar o vírus do RNA. Mais tarde, inspirada por isso, começou a pesquisar sobre a composição do vírus da poliomielite.",
       "morte": "Em 1962, Watson e Crick ganharam o Prêmio Nobel de Fisiologia ou Medicina pela famosa descoberta do DNA, que surgiu do trabalho roubado de Franklin. A atitude antiética dos homens já era questionada no momento das publicações, entretanto por uma minoria, e considerando a época que Rosalind Franklin vivia, isso colaborou para que ela não recebesse o devido reconhecimento. A cientista, entretanto, nunca chegou a ver isso, pois em 1958, aos 38 anos, faleceu de câncer."
-    },  
+    },
 
     { 
       "id": "11", 
@@ -194,7 +194,7 @@ const DADOS_CIENTISTAS = [
       "resumo": "Rachel Carson, a cientista cujas descobertas incentivaram uma investigação governamental.", 
       "imagem_perfil_url": "img/Rachel Carson.jpg", 
       "bandeira_url": "img/estados unidos.png", 
-      "nascimento_morte": "1907  - 1964 ", 
+      "nascimento_morte": "1907 - 1964 ", 
       "origem": "Pensilvânia, Estados Unidos",
       "nascimento": "Rachel Carson nasceu em 27 de maio de 1907 em uma zona rural da Pensilvânia. Desde pequena ela tinha gosto pela natureza e, com o incentivo de sua mãe, Maria Carson, também tinha o costume de escrever bastante.",
       "educação": "Apesar de ter iniciado o curso de inglês na faculdade Pennsylvania College for Women, trocou-o por biologia, formando-se com grandes honras. Além disso, em 1932, finalizou um mestrado na área de zoologia na Johns Hopkins University, mas por razões financeiras, Carson não deu continuidade a seu doutorado.",
@@ -333,7 +333,7 @@ const DADOS_CIENTISTAS = [
         "id": "20",
         "nome": "Alan Turing",
         "area": ["Tecnologia"],
-        "grupo": ["LGBTQIAPN+"],
+        "grupo": ["LGBTQIAP"],
         "resumo": "Pai da computação e herói de guerra: Alan Turing que ajudou a derrotar os Nazistas, mas foi vencido pelo preconceito do próprio país.",
         "imagem_perfil_url": "img/alan turing.jpg",
         "bandeira_url": "img/reino unido.jpg",
