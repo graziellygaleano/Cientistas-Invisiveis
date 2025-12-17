@@ -419,3 +419,12 @@ h3{
     font-family: "Inter", sans-serif;    
     color: #C04922;
 }
+
+.fonte p{
+    font-size: 10px;
+    font-family: "Inter", sans-serif;
+    color: #000000;
+    font-style: italic;
+    text-align: center;  
+    margin-top: 5px;
+}
