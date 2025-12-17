@@ -74,3 +74,4 @@ Percy Julian : não encontrado
 
 Ernest Everett Just : não encontrado
 
+alan turing : See page for author, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons
