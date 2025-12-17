@@ -91,7 +91,10 @@ const DADOS_CIENTISTAS = [
       "bandeira_url": "img/estados unidos.png", 
       "nascimento_morte": "1921 - 2005", 
       "origem": "Hampton, Estados Unidos",
-      "nascimento": "", "educação": "", "trabalhos": "", "morte": "" 
+      "nascimento": "Mary Jackson nasceu em Hampton, Virgínia, em 1921. Apesar da realidade injusta e leis de Jim Crow, que segregava a população por cor, Mary formou-se com honras na George P. Phenix Training School, instituição que lutava pelo direito de jovens negros. Aos 21 anos, graduou-se na Universidade de Hampton em matemática e física, onde fez parte da Alpha Kappa Alpha, a primeira sororidade fundada por mulheres afro-americanas.",
+      "educação": 'No começo da carreira, Jackson lecionou em Maryland e passou por funções como recepcionista e contadora até ser aceita, em 1951, na Computação da Área Oeste na NACA, atual NASA. No cargo de "computadora", trabalhava em um setor de mulheres negras que efetuavam cálculos de altíssima precisão com nenhuma ferramenta além de suas mentes formidáveis. Dois anos depois, foi convidada para trabalhar no túnel de pressão supersônica com o engenheiro Kazimierz Czarnecki.',
+      "trabalhos": "Para tornar-se engenheira, Mary precisou de uma permissão especial para frequentar treinamentos na ainda segregada Hampton High School. Determinada, concluiu o curso e tornou-se a primeira engenheira afro-americana da NASA em 1958, aos 37 anos. Atuou no campo complexo de efeitos de camada de limite em veículos supersônicos e, em 1975, já era autora ou coautora de 12 publicações científicas, incluindo seu primeiro trabalho creditado sobre velocidades supersônicas em cones.",
+      "morte": 'No final da década de 70, mudou o rumo da carreira para se tornar gerente do Federal Women’s Program, onde colaborou para que muitas outras mulheres fossem contratadas até se aposentar em 1985. Contemplada com prêmios como o Apollo Group Achievement Award, Mary também foi líder escoteira por trinta anos e manteve, com seu marido Levi, uma política de "portas abertas" para ajudar jovens. Mary Jackson faleceu aos 83 anos, em 2005, deixando um legado formidável na engenharia e como humanitária.' 
     },
 
     { 
