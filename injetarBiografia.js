@@ -57,8 +57,7 @@ function injetarDadosBiografia() {
         //Fonte
         const elementoFonte = portraitAside.querySelector('.fonte p');
 
-    // 2. INJETA O DADO (Faltava isso!)
-        if (elementoFonte && cientista.fonte_biografia) {
+        if (elementoFonte && cientista.fonte) {
             elementoFonte.textContent = cientista.fonte;
         }
 
