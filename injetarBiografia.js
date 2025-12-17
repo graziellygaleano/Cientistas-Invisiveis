@@ -48,24 +48,23 @@ function injetarDadosBiografia() {
 
     // --- Injeção na Sidebar/Portrait (Coluna da Esquerda) ---
     if (portraitAside) {
-        // Imagem
-        const img = portraitAside.querySelector('img');
-        if (img) {
-            img.src = cientista.imagem_perfil_url;
-            img.alt = `Foto de ${cientista.nome}`;
-        }
-        //Fonte
-        const elementoFonte = portraitAside.querySelector('.fonte p');
+            // Imagem
+            const img = portraitAside.querySelector('img');
+            if (img) {
+                img.src = cientista.imagem_perfil_url;
+                img.alt = `Foto de ${cientista.nome}`;
+            }
 
-        if (elementoFonte && cientista.fonte) {
-            elementoFonte.textContent = cientista.fonte;
-        }
+            // Fonte - Vamos selecionar de forma mais direta para não ter erro
+            const elementoFonte = document.querySelector('.fonte p');
+            if (elementoFonte) {
+                // Usamos cientista.fonte pois é assim que está no seu dados.js
+                elementoFonte.textContent = cientista.fonte || "Fonte indisponível";
+            }
 
-        const informativoDiv = portraitAside.querySelector('.informativo');
-        if (informativoDiv) {
+            const informativoDiv = portraitAside.querySelector('.informativo');
+            if (informativoDiv) {
             
-            // Reconstruindo o HTML do informativo para garantir que o conteúdo estático seja substituído
-            // (Usando as chaves ajustadas: 'origem' e 'grupo' / 'area')
             let infoHTML = `
                 <p>
                     <span class="colorido">Nascimento e morte:</span> ${cientista.nascimento_morte}
