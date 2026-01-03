@@ -370,7 +370,7 @@ const DADOS_CIENTISTAS = [
 
   {
     "id": "21",
-    "nome": "Steephen Hawking",
+    "nome": "Stephen Hawking",
     "area": ["Ciência"],
     "grupo": ["PCD"],
     "resumo": "O físico teórico que desafiou as probabilidades e expandiu nossa compreensão do universo, apesar de viver com uma doença neurodegenerativa.",
